@@ -1,0 +1,6 @@
+a = input("Enter Anything: ")
+print(type(a))# DOUBLE QUOTE MEIN HAI SO SAB KUCH STRING TYPE HI HOGA TUJEH KHUD SE US KA 
+# TYPE CHANGE KARNA PADEGAFOR EG NEECHE DEKH LE
+# TYPE CHANGING PROCESS
+b = float(a)
+print (type(b))

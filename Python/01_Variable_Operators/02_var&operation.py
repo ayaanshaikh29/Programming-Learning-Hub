@@ -1,0 +1,7 @@
+a = 10
+b = 7
+
+print("the addition is ",a+b)
+print("the subtraction is ",a-b)
+print("the multiplication is ",a*b)
+print("the division is ",a/b)
